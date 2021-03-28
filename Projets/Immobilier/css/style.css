@@ -1,0 +1,72 @@
+body{
+    background-color: #5885AF;
+}
+.r1 p{
+    text-align: center;
+    font-weight: bold;
+    margin-top: 20px;
+    font-size: 2em;
+    color: #050A30;
+}
+.r2 img{
+    border: 2px solid rgb(106, 106, 187);
+    border-radius: 15px;
+    padding: 0px;
+    margin-bottom: 30px;
+}
+.cartedelimage{
+    background-color:greenyellow;
+}
+.r2{
+    margin-bottom: 30px;
+}
+.c1{
+    text-align: center;
+}
+.c2{
+    text-align: center;
+}
+.question{
+    color:#050A30;;
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: 2em;
+    font-weight: bold;
+}
+footer a{
+    color: #B1D4E0;
+    margin: 50px;
+}
+footer {
+    height: 120px;
+    text-align: center;
+    justify-content: space-between;
+    padding-top: 50px;
+    background-color: #274472;
+    border: solid 2px #274472;
+    border-radius: 15px;
+}
+.sndpart{
+    text-align: center;
+}
+
+.card-title{
+    background-color: black;
+    color: white;
+    opacity: 0.8;
+    height: 15%;
+    margin: auto;
+    margin-bottom: -16px;
+    margin-left: -5px;
+    display: flex;
+    justify-content: space-between;
+    width: 1145px;
+}
+.card-img-overlay{
+    display: flex;
+    justify-content: space-between;
+}
+.but{
+    margin-bottom: 0px;
+    margin-left: 0px;
+}

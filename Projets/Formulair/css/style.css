@@ -1,0 +1,45 @@
+
+header{
+    display: flex;    
+    justify-content: space-between;
+    background-color:#116530;
+    height: 10%;
+}
+
+
+#presentation{
+    font-weight: bold;
+    color :black;
+    text-align: center;
+    font-size: 1.5em;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.r1 img{
+    width: 50%;
+}
+body{
+    background-color:#A3EBB1;
+}
+
+label{
+    font-weight: bold;
+    color: black;
+}
+
+footer{
+    display: flex;
+    height: 100px;
+    background-color:#18A558;
+    justify-content: space-between;
+    align-items: center; 
+    padding-left: 20px;
+    padding-right: 20px;
+    position: relative;
+    width: 100%;
+
+}
+.lienfooter{
+    color: khaki;
+}
+

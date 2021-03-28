@@ -1,0 +1,198 @@
+@font-face {
+    font-family: "BallparkWeiner";
+    src: url("polices/ballpark.eot");
+    src: url("polices/ballpark.eot?#iefix") format("embedded-opentype"),
+      url("polices/ballpark.woff") format("woff"),
+      url("polices/ballpark.ttf") format("truetype"),
+      url("polices/ballpark.svg#BallparkWeiner") format("svg");
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: "Dayrom";
+    src: url("polices/dayrom.eot");
+    src: url("polices/dayrom.eot?#iefix") format("embedded-opentype"),
+      url("polices/dayrom.woff") format("woff"),
+      url("polices/dayrom.ttf") format("truetype"),
+      url("polices/dayrom.svg#Dayrom") format("svg");
+    font-weight: normal;
+    font-style: normal;
+  }
+/*---------------------------------------------------footer---------------------------------------*/
+
+footer{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+}
+
+.footerrow{
+    justify-content: space-between;
+}
+.footercol3 p{
+    color: red;
+}
+.footercol3 h3{
+    font-family: 'Dayrom';
+}
+.footercol2 h4{
+    font-family: 'Dayrom';
+}
+.footercol1 h5{
+    font-family: 'Dayrom';
+}
+.titrefooter{
+    font-size: 1.4em;
+    font-weight: normal;
+}
+.paragraphesflexe{
+    display: flex;
+    justify-content: space-between;
+}
+.icotop{
+    height: 25px;
+    width: 50px;
+    margin: auto;
+    text-align: justify;
+}
+.imagefooter{
+    text-align: left;
+}
+/*---------------------------------------------------------header---------------------------------------------*/
+.ACCUEIL{
+    color: red;
+    text-decoration: underline;
+    font-family: 'Dayrom';
+}
+#carnet{
+    font-family: 'Dayrom';
+    padding-top: 0px;
+    margin-top: 0px;
+    font-size: 1.5em;
+}
+.navbut{
+    font-family: 'Dayrom';
+}
+.c1{
+    display: flex;
+}
+header{
+    position: relative;
+    display: flex;
+    align-items: center; 
+    justify-content:space-between;
+    height: 90px;
+}
+nav{
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.descriptionimagelogo{
+    font-size: 2em;
+    font-family:'BallparkWeiner';
+    margin-top: 30px;
+    margin-right: 30px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    padding-bottom: 0px;
+}
+.logo{
+    height: 100%;
+    margin-top: 10px;
+}
+/*------------------------------------------------body--------------------------------------------------*/
+body{
+    background-image: url("../images/fond_jaune.png");
+}
+.card-img-overlay{
+    display: flex;
+    justify-content: space-between;
+}
+.imgsc{
+    padding: auto;
+    padding-bottom: 0px;
+}
+.card-title{
+    background-color: black;
+    color: white;
+    opacity: 0.8;
+    height: 20%;
+    margin: auto;
+    margin-bottom: 0px;
+    margin-left: -5px;
+    display: flex;
+    justify-content: space-between;
+    width: 1285px;
+}
+.but{
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+
+.dutext{
+    font-family: 'Dayrom';
+}
+.s1{
+    display: flex;
+    width: 10px;
+    align-items: center;
+}
+
+.ndrow{
+    padding: 9px;
+}
+.separateur1{
+    height: 5px;
+    padding: 0px;
+    width: 100%;
+}
+
+.descripbigcol{
+    position: relative;
+}
+
+.smallcol {
+    background-color: #706b64;
+    color: white;
+    border: solid #706b64 2px  ;
+    border-radius: 6px;
+}
+
+.smallcol h2{
+    text-align: center;
+    font-size: 1.9em;
+    font-family: 'Dayrom';
+
+}
+
+.box{
+    text-align: center;
+}
+
+.description{
+    font-family: 'Dayrom';
+    margin-left: 40px;
+    font-size: 2em;
+}
+
+.ndlogozoroanddescription{
+    display: flex;
+}
+
+.ndlogozoroanddescription img{
+    height: 100%;
+}
+
+.reseausociaux{
+    text-align: center;
+}
+
+.reseausociaux img{
+    padding: 15px;
+}
+
+.rowsanfrans{
+
+    margin: 10px;
+}
